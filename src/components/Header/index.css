@@ -1,0 +1,37 @@
+.navbar-container{
+    width: 1440px;
+height: 56px;
+padding: 12px, 120px, 12px, 120px;
+gap: 760px;
+display: flex;
+justify-content: space-around;
+background-color: #F9FAFF;
+
+}
+
+.navbar-heading{
+font-family: Comfortaa;
+font-size: 18px;
+font-weight: 700;
+line-height: 32px;
+letter-spacing: 0px;
+text-align: left;
+}
+.header-option-container{
+    list-style-type: none;
+    margin-left: 0;
+    width: 292px;
+height: 28px;
+top: 14px;
+left: 1028px;
+gap: 48px;
+display: flex;
+flex-direction: row;
+}
+.link-style{
+    text-decoration: none;
+    color:#25282B ;
+}
+.header-option{
+    color:black;
+}
